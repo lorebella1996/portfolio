@@ -1,0 +1,12 @@
+# Vorrei capire quali prodotti performano meglio. Mi serve un'analisi di performance e marginalità per decidere su cosa puntare
+id_prodotto,nome_prodotto,prezzo_vendita,margine_prodotto,percentuale_margine,somma_ordini,sconto_medio,margine_totale
+1,Software Progettazione Strutturale,12500.0,9300,74.0,525,3.4571428571428573,4719285.0
+6,Software Analisi Petrolifere,25200.0,19100,68.0,481,2.8484848484848486,8915880.0
+10,Software Simulazione Fluidi,18500.0,12300,66.0,403,2.661870503597122,4816065.0
+9,Audit Conformità Impianti,2975.0,2300,65.0,477,2.763157894736842,1067315.0
+4,Certificazione Strutturale,2200.0,1400,63.0,513,2.875,695520.0
+7,Training Sicurezza Offshore,1200.0,750,62.0,449,2.375886524822695,329437.5
+2,Sistema Monitoraggio Offshore,45000.0,27000,60.0,467,2.5,12297150.0
+8,Kit Strumentazione Marina,15600.0,7800,50.0,424,2.636986301369863,3221010.0
+5,Sensori Vibrazione Ponti,8075.0,4300,50.0,409,2.7734375,1712905.0
+3,Consulenza Ingegneria Civile,807.5,430,50.0,383,3.088235294117647,159723.5

@@ -1,0 +1,12 @@
+# Voglio identificare i clienti a rischio churn. Chi non ci compra da più tempo? Dobbiamo attivarci per recuperarli
+id_cliente,ragione_sociale,ultima_vendita,giorni_ultima_vendita,rischio_churn
+8,Sistemi Offshore Italia,2025-12-25,22.60243945615366,alto rischio
+3,Infrastrutture Sud Srl,2025-12-28,19.60243945615366,medio rischio
+9,Tunnel Engineering Group,2026-01-06,10.602439456153661,basso rischio
+4,Ponti e Viadotti SpA,2026-01-08,8.602439456153661,basso rischio
+2,Offshore Engineering Srl,2026-01-09,7.602439456153661,basso rischio
+1,Costruzioni Marinelli SpA,2026-01-10,6.602439456153661,zero rischio
+10,Maritime Services SpA,2026-01-11,5.602439456153661,zero rischio
+7,Calcestruzzo Adriatico,2026-01-12,4.602439456153661,zero rischio
+6,Drilling Tech Solutions,2026-01-12,4.602439456153661,zero rischio
+5,Servizi Portuali Livorno,2026-01-12,4.602439456153661,zero rischio

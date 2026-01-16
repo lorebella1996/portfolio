@@ -1,0 +1,14 @@
+# Ho bisogno di vedere i trend di vendita mensili per gli ultimi 12 mesi. Voglio capire se stiamo crescendo e identificare stagionalità
+mese_vendita,numero_ordini,totale_vendite,totale_fatturato
+01,54,153,2141375.0
+02,60,176,2221595.0
+03,64,184,3113332.5
+04,58,194,2725600.0
+05,73,204,2391695.0
+06,66,205,2505707.5
+07,65,196,2761772.5
+08,57,184,2014977.5
+09,71,229,3332500.0
+10,57,176,2181307.5
+11,66,208,2715282.5
+12,48,137,2018895.0
