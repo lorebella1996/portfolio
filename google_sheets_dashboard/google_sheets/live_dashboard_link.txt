@@ -1,0 +1,11 @@
+Access Dashboard:
+Live Google Sheets Dashboard
+https://docs.google.com/spreadsheets/d/13pT5b5bO4sg22AZewJZg6lSgf3K8QDkbV5tHLlp3ygw/edit?usp=sharing
+
+Dashboard Features:
+- Interactive tabs (Dashboard, Analytics, Sales_Data, Products, Customer)
+- Live formulas and calculations
+- Full exploration capabilities
+- Professional executive presentation
+
+Note: Dashboard is view-only but shows all formulas and data structure

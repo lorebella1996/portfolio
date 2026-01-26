@@ -1,0 +1,78 @@
+# Dataset Extension Methodology
+
+**Sales Dashboard (2010–2025)**
+
+## Overview
+
+The original dataset (*100 Sales Records*, 2010–2017) was extended to **2025** to enable **multi-year trend analysis** and realistic dashboard insights.
+The extension follows **business-driven assumptions** and preserves the structure and patterns of the original data.
+
+---
+
+## Original Dataset
+
+* **Records**: 100 sales transactions
+* **Period**: 2010–2017
+* **Scope**:
+
+  * 7 geographic regions
+  * 12 product categories
+  * Online / Offline sales channels
+
+Key patterns (prices, regions, products) were analyzed and used as a baseline.
+
+---
+
+## Extension Logic
+
+The dataset was expanded with **synthetic but controlled data** using the following assumptions:
+
+* **E-commerce growth**: gradual increase of online sales share after 2017
+* **Price inflation**: ~3% annual increase
+* **COVID impact**:
+
+  * 2020: temporary volume decrease
+  * 2021: recovery rebound
+* **Volumes**: realistic variability within historical ranges
+
+Random variation was applied to avoid artificial uniformity.
+
+---
+
+## Data Generation Approach
+
+For each new record:
+
+* Regions, products and channels follow original distributions
+* Prices are adjusted for inflation and market effects
+* Units sold vary within controlled bounds
+* Revenue and profit are calculated consistently
+
+The process prioritizes **coherence and realism**, not prediction.
+
+---
+
+## Validation
+
+* Same regions and product categories as original dataset
+* No missing or inconsistent values
+* Financial metrics within realistic ranges
+* Overall trends aligned with business expectations
+
+**Final dataset**:
+
+* 340 records
+* 15-year coverage (2010–2025)
+
+---
+
+## Assumptions & Limits
+
+* Simplified trends (no seasonality or competition effects)
+* Stable product portfolio and geography
+* Dataset designed for **analysis and visualization**, not forecasting
+
+---
+
+*AI-assisted data generation, fully human-controlled*
+*Methodology documented for transparency and portfolio use*

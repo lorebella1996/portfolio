@@ -1,0 +1,8 @@
+Region_ID,Region_Name,Countries_Count,Main_Countries,Total_Orders,Avg_Order_Value,Total_Revenue,Preferred_Channel,Market_Share_Pct
+REG_AUSTRALIA_&_OCEANIA,Australia and Oceania,9,"Tuvalu, Solomon Islands, East Timor",50,1408282.31,70414115.52,Online,14.7
+REG_CENTRAL_AMERICA_&_THE_CARIBBEAN,Central America and the Caribbean,6,"Grenada, Honduras, Costa Rica",36,1598085.81,57531089.28,Online,10.6
+REG_EUROPE,Europe,19,"Russia, Bulgaria, Norway",66,1151576.01,76004016.46,Online,19.4
+REG_SUB-SAHARAN_AFRICA,Sub-Saharan Africa,24,"Sao Tome and Principe, Rwanda, Angola",66,1407649.17,92904845.41,Offline,19.4
+REG_ASIA,Asia,9,"Kyrgyzstan, Bangladesh, Mongolia",43,1881144.12,80889197.21,Online,12.6
+REG_MIDDLE_EAST_&_NORTH_AFRICA,Middle East and North Africa,8,"Syria, Azerbaijan, Saudi Arabia",44,1399513.48,61578593.31,Online,12.9
+REG_NORTH_AMERICA,North America,1,Mexico,35,1669283.03,58424906.21,Online,10.3

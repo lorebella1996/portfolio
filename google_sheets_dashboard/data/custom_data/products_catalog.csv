@@ -1,0 +1,13 @@
+Product_ID,Product_Name,Category,Avg_Unit_Price,Avg_Unit_Cost,Profit_Margin_Pct,Total_Units_Sold,Active_Status
+PRD_BABY_FOOD,Baby Food,Family & Children,278.98,172.95,38.0,187748,Active
+PRD_CEREAL,Cereal,Food & Beverages,212.99,123.53,42.0,102844,Active
+PRD_OFFICE_SUPPLIES,Office Supplies,Business Equipment,694.19,556.36,19.9,133698,Active
+PRD_FRUITS,Fruits,Food & Beverages,10.15,7.54,25.7,160060,Active
+PRD_HOUSEHOLD,Household,Home & Garden,729.16,554.24,24.0,133447,Active
+PRD_VEGETABLES,Vegetables,Food & Beverages,168.03,100.12,40.4,111798,Active
+PRD_PERSONAL_CARE,Personal Care,Health & Beauty,90.35,62.13,31.2,172453,Active
+PRD_CLOTHES,Clothes,Apparel,120.64,39.7,67.1,197271,Active
+PRD_COSMETICS,Cosmetics,Personal Care,467.76,285.38,39.0,171386,Active
+PRD_BEVERAGES,Beverages,Food & Beverages,49.8,33.2,33.3,198656,Active
+PRD_MEAT,Meat,Food & Beverages,487.64,409.27,16.1,119633,Active
+PRD_SNACKS,Snacks,Food & Beverages,172.65,108.44,37.2,136376,Active
